@@ -1,0 +1,4 @@
+name: proj_estatistica
+channels:
+  - defaults
+prefix: /home/everson/anaconda3/envs/proj_estatistica
